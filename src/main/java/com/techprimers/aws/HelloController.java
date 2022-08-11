@@ -10,6 +10,6 @@ public class HelloController {
 
     @GetMapping
     public String hello() {
-        return "new change on repo for code pipeline";
+        return "test change for aws build..";
     }
 }
