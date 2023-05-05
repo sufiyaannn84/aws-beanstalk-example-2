@@ -10,6 +10,6 @@ public class HelloController {
 
     @GetMapping
     public String hello() {
-        return "test commit for AWS pipeline";
+        return "code pipeline test commit on github";
     }
 }
